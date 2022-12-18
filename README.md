@@ -14,4 +14,7 @@ This repo contains the *JAVA* code for a Multi-Threaded Web Crawler that stores 
 2. I am yet to check if my web crawler goes through loops when visiting links.
 
 # Results 
+<img width="1470" alt="Screen Shot 2022-12-18 at 3 12 35 AM" src="https://user-images.githubusercontent.com/93003959/208289151-3bb58a4c-b884-42e4-897c-9be1e5394dcb.png">
+
+<img width="1470" alt="Screen Shot 2022-12-18 at 3 12 41 AM" src="https://user-images.githubusercontent.com/93003959/208289155-f62e39f2-58bb-408b-86bd-73044845cdfb.png">
 
