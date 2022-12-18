@@ -7,3 +7,11 @@ This repo contains the *JAVA* code for a Multi-Threaded Web Crawler that stores 
 2. Add the Jsoup and SQLite .jar files to your project classpath so you can import the corresponding libraries.
 3. Navigate to webCrawler/src/webCrawler/MainTest.java file and run the file to start the web crawling process.
 4. If you don't have SQLite installed, please follow the [installation guide](https://www.sqlite.org/download.html) based on your OS and click on the crawler.db file to access the database containing the scraped URL's in the crawler table which contains 3 columns: id, URL, PURL which describe the kind of data being scraped. 
+
+
+# Future Work
+1. I plan to display the scraped URL's in a GUI. I have already written the code but am yet to integrate the GUI with the database.
+2. I am yet to check if my web crawler goes through loops when visiting links.
+
+# Results 
+
