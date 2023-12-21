@@ -11,9 +11,8 @@ This repo contains the **JAVA** code for a Multi-Threaded Web Crawler that store
 
 
 # Future Work
-1. I plan to display the scraped URL's in a GUI. I have already written the code but am yet to integrate the GUI with the database.
-2. I am yet to check if my web crawler goes through loops when visiting links by using MD5 hashing.
-
+1. I am working on create an application to take user given seed URL and a max-depth they want to parse. Once the crawler bots complete parsing, the results will be in a downloadable CSV format so users can utilise the dataset for their personal use.
+   
 # Results 
 <img width="1470" alt="Screen Shot 2022-12-18 at 3 12 35 AM" src="https://user-images.githubusercontent.com/93003959/208289151-3bb58a4c-b884-42e4-897c-9be1e5394dcb.png">
 
